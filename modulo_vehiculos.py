@@ -12,7 +12,7 @@ class Vehiculos():
 		self.enMarcha=True
 
 	def acelerar(self):
-		self.acelerar=True
+		self.acelera=True
 
 	def frenar(self):
 		self.frena=True
